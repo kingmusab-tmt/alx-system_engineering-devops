@@ -1,0 +1,4 @@
+#!/bin/bash
+# script for printing absolute path name
+pwd
+
