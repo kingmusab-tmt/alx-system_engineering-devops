@@ -1,3 +1,2 @@
 #!/bin/bash
-#Listing even hidden directory
 ls -a -l

@@ -1,4 +1,2 @@
 #!/bin/bash
-# Take me to home directory
 cd ..
-
