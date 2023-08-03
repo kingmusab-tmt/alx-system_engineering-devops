@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Fa1 | tr '\n' ','; echo
+ls -a -m -p
